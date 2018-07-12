@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #ed7677;
+}
+
+h4 {
+    color: #7e7e7e;
+}
+
+.box {
+    background-color: #ededed;
+    box-shadow: 5px 10px #888888;
+    height: auto;
+    width: 25%;
+    margin: auto;
+    padding: 5%;
+}
+
+.heading {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.login {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+input {
+    margin-top: 5%;
+}
+
+.login-button {
+    display: flex;
+    margin: 5%;
+    justify-content: center;
+}
+
+button {
+    background-color: #7dd9d5;
+    color:white;
+    padding-right: 15%;
+    padding-left: 15%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    font-size: 1rem;
+}
+
+
