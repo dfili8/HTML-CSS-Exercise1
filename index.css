@@ -28,8 +28,9 @@ h4 {
     width: 100%;
 }
 
-input {
+.inputtext {
     margin-top: 5%;
+    padding: 3%;
 }
 
 .login-button {
